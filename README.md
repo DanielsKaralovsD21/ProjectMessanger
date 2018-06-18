@@ -8,4 +8,5 @@ klikskejam uz 'Add Pair' pogu, klikskejam jaunuztaisita 'Virual Port Pair' un ab
 ir uzstaisits - ir rakstits programmas augsa dala divas logas. Bus jaaugspielade foto ka to vajag izskatities.
 Programma ari bus jaaugspielade zip faila).
 Visas kludas kadas es atradiju ir labots. Ari biji piedalitas komentarijas par labako programmas saptatni.
+Project1.zip iekspielades fails vajag but Debug mape(ir lielaks neka 25 MB). 
 Es ceru ka projramma jums patiks. :) 
